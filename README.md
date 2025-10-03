@@ -1,0 +1,1 @@
+This Streamlit app will fetch the branches for a selected bank, then find the businesses within a 10-mile radius of each branch and return email contacts for those businesses. I wrote this for use in Snowflake and it uses several of the S&P datasets that are available via a Snowflake data feed.
